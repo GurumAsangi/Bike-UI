@@ -169,8 +169,8 @@ body {
 
 .home-img .rhombus img {
     position: absolute;
-    top: 110px;
-    left: -250px;
+    top: 120px;
+    left: -150px;
     max-width: 750px;
     transform: rotate(-45deg);
     opacity: 0;
